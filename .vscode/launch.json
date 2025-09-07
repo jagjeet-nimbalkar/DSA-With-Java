@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "remDulpi",
+            "request": "launch",
+            "mainClass": "remDulpi",
+            "projectName": "DSA_4a178311"
+        },
+        {
+            "type": "java",
             "name": "subString",
             "request": "launch",
             "mainClass": "Recursion.subString",
