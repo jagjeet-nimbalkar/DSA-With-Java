@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "DivideC.QuickSort",
+            "projectName": "DSA_4a178311"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "DivideC.MergeSort",
+            "projectName": "DSA_4a178311"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "DivideConquer.MergeSort",
+            "projectName": "DSA_4a178311"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHonai",
+            "request": "launch",
+            "mainClass": "Recursion.TowerOfHonai",
+            "projectName": "DSA_4a178311"
+        },
+        {
+            "type": "java",
             "name": "remDulpi",
             "request": "launch",
             "mainClass": "remDulpi",
